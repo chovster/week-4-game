@@ -1,0 +1,65 @@
+.container{
+	text-align: center;
+	/*padding: 48px;*/
+	margin: 30px;
+	color: white;
+	border: solid;
+	border-color: white;
+}
+
+.container2{
+	
+	border:solid white;
+	margin-right: 1200px;
+	padding-left: 10px;
+	margin-left: 30px;
+	/*border-color: white;*/
+}
+
+#randomScore{
+	color: white;
+}
+
+#winsCount{
+	color: white;
+}
+
+#lossesCount{
+	color: white;
+}
+
+#userScoreCount{
+	color: white;
+}
+
+#crystalButton1{
+	display: block;
+	float: left;
+	align-items: center;
+	max-height: : 50%;
+
+}
+
+#cyrstalButton2{
+	display: block;
+	float: left;
+	align-items: center;
+}
+
+#crystalButton3{
+	display: block;
+	float: left;
+	align-items: center;
+}
+
+#crystalButton4{
+	display: block;
+	float: left;
+	align-content: center;
+}
+
+body{
+	width: 100%;
+	height: 100%;
+	background-image: url('../images/backgroundLight.jpg');
+}
