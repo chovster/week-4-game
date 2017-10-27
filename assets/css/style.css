@@ -7,14 +7,23 @@
 	border-color: white;
 }
 
+.blank {
+	height: 100px;
+	width: 500px;
+	/*background-color: purple;*/
+	display: inline-block;
+}
 .container2{
-	
+	width: 300px;
+	margin: 0 auto;
 	border:solid white;
-	margin-right: 1200px;
+	display: inline-block;
 	padding-left: 10px;
-	margin-left: 30px;
+	
 	/*border-color: white;*/
 }
+
+
 
 #randomScore{
 	color: white;
@@ -32,30 +41,41 @@
 	color: white;
 }
 
+.container3{
+	/*border: solid 1px;*/
+	text-align: center;
+	width: auto;
+	height: auto;
+}
+
 #crystalButton1{
-	display: block;
+	display: inline-block;
 	float: left;
-	align-items: center;
-	max-height: : 50%;
+	align-content: center;
+	
 
 }
 
 #cyrstalButton2{
-	display: block;
+	display: inline-block;
 	float: left;
-	align-items: center;
+	align-content: center;
+
 }
 
 #crystalButton3{
-	display: block;
+	display: inline-block;
 	float: left;
-	align-items: center;
+	align-content: center;
+
+	
 }
 
 #crystalButton4{
-	display: block;
+	display: inline-block;
 	float: left;
 	align-content: center;
+
 }
 
 body{
